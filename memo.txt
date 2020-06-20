@@ -1,0 +1,7 @@
+2020/6/20(土)
+Rails Girls チュートリアル③を実施しました。
+まず、git（64bitwindows版）をインストールしました。
+次に、GitHubにアカウントを作成しました。
+最後、ローカルpcのコンソールで、git add → git commit → git remote → git push を試しました。
+
+
