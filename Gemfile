@@ -9,6 +9,8 @@ gem 'rails', '~> 6.0.2', '>= 6.0.2.2'
 gem 'sqlite3', '~> 1.4'
 # Rails Girls 写真アップロード機能を追加する　で追加した。2020/06/07
 gem 'carrierwave'
+# Rails Girls Carrierwaveを使ってサムネイルを作ってみよう　で追加した。2020/11/29
+gem 'mini_magick'
 # Use Puma as the app server
 gem 'puma', '~> 4.1'
 # Use SCSS for stylesheets
@@ -50,3 +52,6 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# Rails Girls Deviseによる認証機能を追加してみよう　で追加した。2020/12/06
+gem 'devise'
