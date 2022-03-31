@@ -12,7 +12,7 @@ gem 'carrierwave'
 # Rails Girls Carrierwaveを使ってサムネイルを作ってみよう　で追加した。2020/11/29
 gem 'mini_magick'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
